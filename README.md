@@ -1,3 +1,4 @@
+# Data for the Challenge "Next-Gen Damage Estimation"
 This respository is part of the Zurich hackathon of [Swiss {ai} Week](https://swiss-ai-weeks.ch/) happening on 26/27 September 2025.
 
 By accessing or using the data provided, you agree to the following terms and conditions.
